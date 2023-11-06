@@ -105,3 +105,6 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 This project serves as a practical demonstration of creating an Android Activity with a specific UI layout and showcasing the Activity Lifecycle. You can build and run this project to observe the Activity Lifecycle methods in action, along with the "Hello World" message displayed on the activity screen.
+## Screenshot
+
+![Screenshot Practical-2](Screenshot.png)
